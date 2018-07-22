@@ -1,0 +1,12 @@
+c:\users\kursatcayirli\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\kursatcayirli\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\kursatcayirli\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.frmCalisanListesi.resources
+c:\users\kursatcayirli\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\kursatcayirli\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\kursatcayirli\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\kursatcayirli\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\kursatcayirli\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Dapper.dll
+c:\users\kursatcayirli\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Dapper.pdb
+c:\users\kursatcayirli\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Dapper.xml
+c:\users\kursatcayirli\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\kursatcayirli\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
